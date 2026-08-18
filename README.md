@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="readme-banner.gif" width="100%"/>
+<img src="github-banner (2).png" width="100%"/>
 
 </div>
 
