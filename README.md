@@ -20,12 +20,14 @@
 
 ## About Me
 
-I'm a Computer Science student at AIUB interested in software development and AI/ML. I enjoy building projects and learning new technologies — currently exploring computer graphics, databases, and applied ML alongside my coursework.
+I'm a Computer Science student at AIUB, still early in the journey but already hooked on building things that work — and figuring out *why* they work. Software development and AI/ML pulled me in first, and from there I kept branching out: computer graphics, databases, applied machine learning, whatever pushes me to learn something new.
+
+I care less about collecting tools and more about actually shipping — most of what I know came from a project that forced me to learn it, not a course. That's the loop I'm chasing: build, get stuck, figure it out, build the next thing a little better.
 
 - 🎓 CSE Student @ AIUB
-- 🧠 Interested in Software Development, AI/ML, Web Development, Cybersecurity, Data Science & Computer Graphics
-- 🌱 Currently sharpening skills in AI/ML and Computer Graphics
-- 💬 Ask me about C++, Python, OpenGL, or Linux Mint
+- 🧠 Drawn to Software Development, AI/ML, Web Development, Cybersecurity, Data Science & Computer Graphics
+- 🌱 Right now, deepening my grip on AI/ML and Computer Graphics
+- 💬 Happy to talk C++, Python, OpenGL, or Linux Mint any time
 
 <br>
 
