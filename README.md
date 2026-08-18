@@ -1,72 +1,107 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e5ff,100:0066ff&height=220&section=header&text=SHAFEEN%20AHMED&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=CSE%20STUDENT%20%40%20AIUB&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Shafeen%20Ahmed&fontSize=46&fontColor=00fff7&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20@%20AIUB&descAlignY=55&descColor=ff2e97" width="100%"/>
 
-</div>
-
-<!-- ========================= INTRO ========================= -->
-
-<div align="center">
-
-### 👋 Hey, I'm Shafeen
-
-**CSE Student @ AIUB • Developer • AI/ML Enthusiast**
-
-<br>
-
-I'm a Computer Science student at AIUB interested in  
-**software development, AI/ML, and building things with code.**
-
-I enjoy exploring new technologies, creating projects,  
-and continuously improving my skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=560&lines=Computer+Science+Student+%40+AIUB;Interested+in+Software+Development+%26+AI%2FML;Always+building%2C+always+learning." alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<!-- ========================= ABOUT ========================= -->
+<div align="center">
 
-## `> whoami`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafeen-ahmed-977305383/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shafin.ahmed.939600/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sha_fein/?hl=en)
+[![Discord](https://img.shields.io/badge/Discord-shafin3674-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/621728393074966538)
+[![Email](https://img.shields.io/badge/Email-ahmedshafin338%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedshafin338@gmail.com)
 
-```text
-Name        : Shafeen Ahmed
-Username    : freakshafin
-University  : American International University-Bangladesh
-Focus       : Software Development • AI/ML
-Interests   : Cybersecurity • Data Science • Computer Graphics
-Currently   : Learning & Building
-<!-- ========================= INTERESTS ========================= -->
-> interests
-<table> <tr> <td width="50%">
-💻 Software Development
+</div>
 
-Building applications and learning better software engineering practices.
+<br>
 
-</td> <td width="50%">
-🤖 AI / ML
+## About Me
 
-Exploring artificial intelligence, machine learning and data-driven systems.
+I'm a Computer Science student at AIUB interested in software development and AI/ML. I enjoy building projects and learning new technologies — currently exploring computer graphics, databases, and applied ML alongside my coursework.
 
-</td> </tr> <tr> <td>
-🌐 Web Development
+- 🎓 CSE Student @ AIUB
+- 🧠 Interested in Software Development, AI/ML, Web Development, Cybersecurity, Data Science & Computer Graphics
+- 🌱 Currently sharpening skills in AI/ML and Computer Graphics
+- 💬 Ask me about C++, Python, OpenGL, or Linux Mint
 
-Learning modern web technologies and building interactive applications.
+<br>
 
-</td> <td>
-🔐 Cybersecurity
+## Tech Stack
 
-Interested in networking, Linux and cybersecurity concepts.
+**Languages**
 
-</td> </tr> <tr> <td>
-📊 Data Science
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-Exploring data, databases and analytical approaches to solving problems.
+**Tools & Platforms**
 
-</td> <td>
-🎮 Computer Graphics
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-Creating graphical applications using OpenGL and computer graphics techniques.
+**Focus Areas**
 
-</td> </tr> </table> ```
+![Databases](https://img.shields.io/badge/Databases-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-333333?style=flat-square&logo=blender&logoColor=white)
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Merchify
+Merchandise management system built with C#, .NET & SQL Server.
+
+`C#` `.NET` `SQL Server` `Visual Studio`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ Future City
+OpenGL computer graphics project — a scene built with C++ and GLUT.
+
+`C++` `OpenGL` `GLUT`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=freakshafin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakshafin&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=freakshafin&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=freakshafin&color=0d1117&style=flat-square&label=Profile+Views" />
+</div>
+
+<br>
+
+<div align="center">
+<sub>Thanks for stopping by ✨</sub>
+</div>
