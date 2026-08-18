@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme-banner.gif" width="100%"/>
+<img src="readme-banner.gif" width="100%"/>
 
 </div>
 
