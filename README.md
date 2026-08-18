@@ -37,3 +37,63 @@ University  : American International University-Bangladesh
 Focus       : Software Development • AI/ML
 Interests   : Cybersecurity • Data Science • Computer Graphics
 Currently   : Learning & Building
+
+---
+
+## `> interests`
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Software Development
+
+Building applications and learning better software engineering practices.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI / ML
+
+Exploring artificial intelligence, machine learning and data-driven systems.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 Web Development
+
+Learning modern web technologies and building interactive applications.
+
+</td>
+
+<td>
+
+### 🔐 Cybersecurity
+
+Interested in networking, Linux and cybersecurity concepts.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📊 Data Science
+
+Exploring data, databases and analytical approaches to solving problems.
+
+</td>
+
+<td>
+
+### 🎮 Computer Graphics
+
+Creating graphical applications using OpenGL and computer graphics techniques.
+
+</td>
+</tr>
+</table>
