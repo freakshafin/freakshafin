@@ -87,8 +87,8 @@ OpenGL computer graphics project — a scene built with C++ and GLUT.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=freakshafin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakshafin&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=freakshafin&show_icons=true&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freakshafin&layout=compact&theme=dark&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=freakshafin&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="165"/>
 
